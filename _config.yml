@@ -1,1 +1,35 @@
 theme: Minimal
+
+# Divya Shyam Singh
+
+**Navigation**: [About](#about) | [Projects](#projects) | [Contact](#contact)
+
+---
+
+## <a id="about"></a>About
+Your bio here. Describe your background, skills, and interests.
+
+---
+
+## <a id="projects"></a>Projects
+
+### Project Title 1
+**Description**: Project description. Briefly explain what this project does and technologies used.  
+**Links**: [Live Demo](#) · [GitHub](#)
+
+### Project Title 2 
+**Description**: Project description. Briefly explain what this project does and technologies used.  
+**Links**: [Live Demo](#) · [GitHub](#)
+
+---
+
+## <a id="contact"></a>Contact
+Feel free to reach out:
+
+- **Email**: [your@email.com](mailto:your@email.com)
+- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+© 2023 Your Name. All rights reserved.
