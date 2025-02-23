@@ -1,35 +1,21 @@
 theme: Minimal
 
-# Divya Shyam Singh
+title: "Your Name"
+description: "PhD Student | Computational Imaging | Research"
+baseurl: "" # Leave empty if using username.github.io
+url: "https://dshyamsingh.github.io"
 
-**Navigation**: [About](#about) | [Projects](#projects) | [Contact](#contact)
+theme: minima  # or another Jekyll theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
----
+author:
+  name: "Your Name"
+  email: "your.email@example.com"
+  github: "yourgithubusername"
+  linkedin: "yourlinkedin"
 
-## <a id="about"></a>About
-Your bio here. Describe your background, skills, and interests.
+markdown: kramdown
+permalink: pretty
 
----
-
-## <a id="projects"></a>Projects
-
-### Project Title 1
-**Description**: Project description. Briefly explain what this project does and technologies used.  
-**Links**: [Live Demo](#) · [GitHub](#)
-
-### Project Title 2 
-**Description**: Project description. Briefly explain what this project does and technologies used.  
-**Links**: [Live Demo](#) · [GitHub](#)
-
----
-
-## <a id="contact"></a>Contact
-Feel free to reach out:
-
-- **Email**: [your@email.com](mailto:your@email.com)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-© 2023 Your Name. All rights reserved.
